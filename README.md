@@ -16,10 +16,8 @@ repo-scaffolder/
 
 ## Install
 
-After publishing this directory as a GitHub repository, replace `OWNER` with its account name:
-
 ```bash
-npx skills add OWNER/repo-scaffolder --skill repo-scaffolder
+npx skills add Alelob96/repo-scaffolder --skill repo-scaffolder
 ```
 
 To install into an agent's global scope, append `-g`. To select Codex or Claude Code specifically, use the agent option supported by the installed `skills` CLI. From a local checkout, run `npx skills add ./repo-scaffolder --skill repo-scaffolder` from the parent directory.
