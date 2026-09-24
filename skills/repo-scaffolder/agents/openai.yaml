@@ -1,0 +1,4 @@
+interface:
+  display_name: "Repo Scaffolder"
+  short_description: "Adapt a repository for reliable agent development"
+  default_prompt: "Use $repo-scaffolder to inspect this repository, ask any consequential missing architecture questions, and implement a proportional scaffold."
